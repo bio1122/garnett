@@ -29,7 +29,7 @@ Imports:
     ggplot2 (>= 3.1.0),
     ggrepel (>= 0.8.0),
     glmnet (>= 4.0-2),
-    igraph (>= 1.2.2),
+    igraph (>= 2.1.1),
     irlba (>= 2.3.2),
     Matrix (>= 1.2-15),
     methods,
